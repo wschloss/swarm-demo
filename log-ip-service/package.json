@@ -1,13 +1,13 @@
 {
-  "name": "basic-node-service",
+  "name": "log-ip-service",
   "version": "1.0.0",
-  "description": "Displays random guid",
+  "description": "Displays client IP and container hostname",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "author": "wschlosser",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "4.15.2"
   }
 }
